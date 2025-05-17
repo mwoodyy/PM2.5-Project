@@ -22,6 +22,6 @@ Visualized regression line with actual test values
 # What I learned
 PM2.5 and dew point have moderate positive correlation
 
-Based on the model, more moisture -> more pollution (although other factors are undoubtably involved)
+Based on the model, more moisture -> more pollution (although other factors are surely involved)
 
 Linear regression captured trend but did not explain variance (low R² score) which implies that a more complex model could offer more insights

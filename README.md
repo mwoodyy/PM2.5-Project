@@ -10,6 +10,8 @@ Apply machine learning and evaluation metrics
 
 Clearly visualize and understand results
 
+Get familiar with seaborn (first time using it here)
+
 # Process
 Cleaned dataset by removing missing values in relevant columns
 

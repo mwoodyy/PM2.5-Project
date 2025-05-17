@@ -21,9 +21,11 @@ Evaluated model performance using R² score and root mean squared error (RMSE)
 
 Visualized regression line with actual test values
 
-# What I learned
+# Takeaways
 PM2.5 and dew point have moderate positive correlation
 
 Based on the model, more moisture -> more pollution (although other factors are surely involved)
 
 Linear regression captured trend but did not explain variance (low R² score) which implies that a more complex model could offer more insights
+
+More generally, I learned how to implement linear regression and evaluate it as well as how interested I am in applying machine learning techniques in an environmental sense

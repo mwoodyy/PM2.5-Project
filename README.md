@@ -1,4 +1,4 @@
-# PM2.5-Project
+# PM2.5 vs. Dew Point Project
 Dataset used: https://www.kaggle.com/datasets/djhavera/beijing-pm25-data-data-set
 
 PM2.5 refers to fine particulate matter pollution with a diameter at most 2.5 micrometers
